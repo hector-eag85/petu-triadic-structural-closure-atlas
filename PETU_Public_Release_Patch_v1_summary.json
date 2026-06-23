@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/hector-eag85/petu-triadic-structural-closure-atlas",
+  "archived_doi": "https://doi.org/10.5281/zenodo.20820252",
+  "preprint_doi": "pending",
+  "patched_documents": 5,
+  "status": "PASS_METADATA_PATCH / PENDING_FINAL_LOG_AUDIT",
+  "generated": "2026-06-23",
+  "zip_path": "/mnt/data/PETU_Public_Release_Patch_v1.zip",
+  "zip_size_bytes": 1412456,
+  "zip_sha256": "3ebe34f1cc8fedb6e2c82345de04211ac6b62887d854243721c84b80991b7806"
+}
