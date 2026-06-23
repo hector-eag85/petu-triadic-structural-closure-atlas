@@ -1,0 +1,12 @@
+item,required,status,notes
+Main manuscript,yes,PASS_STRUCTURAL,DOCX/PDF included
+Supplementary Information,yes,PASS_STRUCTURAL,DOCX/PDF included
+Supplementary Tables,yes,PASS_STRUCTURAL,XLSX/CSV included
+Main Figures,yes,PASS_STRUCTURAL,PDF/ZIP included
+Extended Data Figures,yes,PASS_STRUCTURAL,PDF/ZIP included
+Figure source tables,yes,PASS_STRUCTURAL,CSV source tables included where available
+Scripts,yes,PASS_STRUCTURAL,Extracted where available; final run order pending
+Logs/outputs,yes,PASS_STRUCTURAL,Extracted where available; final reconciliation pending
+AI compliance,yes,PASS,"Final figures are programmatic, not generative-AI image outputs"
+ST9 Independent Validation,yes,PENDING_FINAL_LOG_AUDIT,Critical before public release
+Repository DOI,recommended,PENDING,External action
