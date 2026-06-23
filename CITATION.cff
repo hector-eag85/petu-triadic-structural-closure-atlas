@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived Zenodo release."
+title: "Data and code for Triadic structural closure across twelve natural domains"
+authors:
+  - family-names: "Álvarez García"
+    given-names: "Héctor Eugenio"
+version: "1.0.0"
+date-released: "2026-06-22"
+doi: "10.5281/zenodo.20820252"
+url: "https://github.com/hector-eag85/petu-triadic-structural-closure-atlas"
+abstract: "Repository package containing manuscript materials, supplementary information, supplementary tables, main figures, extended data figures, source tables, scripts, logs, audit files and reproducibility documentation for Triadic structural closure across twelve natural domains."
+keywords:
+  - triadic structural closure
+  - PETU
+  - complex systems
+  - cross-domain analysis
+  - reproducibility
+  - support-structure-linkage
+  - coherence
+  - natural systems
+license: "CC-BY-4.0"
