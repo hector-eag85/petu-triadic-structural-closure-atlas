@@ -40,6 +40,6 @@ claim → figure/table → source CSV → output/log → script → dataset/sour
 
 ## Current status
 
-PASS_STRUCTURAL / PENDING_FINAL_LOG_AUDIT.
+Status: PASS_FINAL_LOG_AUDIT_WITH_SCOPE_NOTE.
 
-Before public preprint or journal submission, the numerical values should be reconciled against the raw logs/source outputs, especially ST9 Independent Validation.
+Scope note: source-table and packaged-log audit passed. Full raw-data re-execution was not performed inside the chat audit; the repository provides scripts, RUN_ORDER and public data-source documentation for reproducibility.
