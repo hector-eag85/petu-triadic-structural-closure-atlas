@@ -42,4 +42,4 @@ claim → figure/table → source CSV → output/log → script → dataset/sour
 
 Status: PASS_FINAL_LOG_AUDIT_WITH_SCOPE_NOTE.
 
-Scope note: source-table and packaged-log audit passed. Full raw-data re-execution was not performed inside the chat audit; the repository provides scripts, RUN_ORDER and public data-source documentation for reproducibility.
+Scope note: source-table and packaged-log audit passed. Full raw-data re-execution was not performed inside the audit; the repository provides scripts, RUN_ORDER and public data-source documentation for reproducibility.
