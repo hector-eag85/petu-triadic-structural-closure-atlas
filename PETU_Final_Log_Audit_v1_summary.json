@@ -1,0 +1,17 @@
+{
+  "package": "PETU_Final_Log_Audit_v1",
+  "final_status": "PASS_FINAL_LOG_AUDIT_WITH_SCOPE_NOTE",
+  "numeric_checks": 272,
+  "numeric_failures": 0,
+  "critical_placeholder_failures": 0,
+  "metric_trace_rows": 93,
+  "source_table_only_review_rows": 11,
+  "script_output_map_rows": 25,
+  "script_only_review_rows": 0,
+  "preprint_doi": "https://doi.org/10.5281/zenodo.20821557",
+  "repository_doi": "https://doi.org/10.5281/zenodo.20820252",
+  "generated": "2026-06-24",
+  "zip_path": "/mnt/data/PETU_Final_Log_Audit_v1.zip",
+  "zip_size_bytes": 127935,
+  "zip_sha256": "c834d0c9b38441a6cae6d022749860e3c8f5e62b42897b21c17f8dcc95c977bf"
+}
