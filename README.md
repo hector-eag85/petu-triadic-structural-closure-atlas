@@ -14,7 +14,7 @@
 
 **Validation:** independent tier-1 validation in immune, metabolic, hydrological, and climatic systems.
 
-**Audit status:** PASS_FINAL_LOG_AUDIT_WITH_SCOPE_NOTE.
+**Audit status:** PASS FINAL LOG AUDIT WITH SCOPE NOTE.
 
 **Use this repository to:** read the manuscript, inspect figures/tables, access source data tables, review scripts, and reproduce or challenge the analysis.
 
