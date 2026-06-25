@@ -8,11 +8,7 @@ Status: PASS_FINAL_DATA_AVAILABILITY_PATCH / PASS_FINAL_LOG_AUDIT_WITH_SCOPE_NOT
 
 This patch records the final public-release update to the data availability statement after DOI consolidation and final packaged-log/source-table audit.
 
-It supersedes earlier intermediate states such as:
-
-* `PENDING_FINAL_DATA_SOURCE_AUDIT`
-* `PENDING_FINAL_LOG_AUDIT`
-* `PASS_METADATA_PATCH / PENDING_FINAL_DATA_SOURCE_AUDIT`
+This file supersedes earlier intermediate data-availability patch states and should be read together with `DATA_AVAILABILITY.md`.
 
 ## Public data/code and reproducibility archive
 
@@ -79,4 +75,3 @@ Repository: https://github.com/hector-eag85/petu-triadic-structural-closure-atla
 PETU is presented as a candidate cross-domain empirical principle.
 
 This repository does not claim that PETU is a completed universal law, a theory of everything, a metaphysical proof, or a theological proof.
-
