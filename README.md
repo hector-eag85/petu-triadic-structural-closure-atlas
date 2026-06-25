@@ -129,6 +129,9 @@ Please cite the preprint and the data/code archive separately when using this wo
 
 Álvarez García, H. E. *A Formal Mathematical Theory of Triadic Structural Closure: Support, Structure, Linkage, Coherence, Unity and Fragility in the PETU Framework*. Zenodo. https://doi.org/10.5281/zenodo.20859713
 
+
+## BibTeX
+
 @misc{alvarezgarcia_petu_preprint_2026,
   author = {Álvarez García, Héctor Eugenio},
   title = {Triadic structural closure across twelve natural domains},
