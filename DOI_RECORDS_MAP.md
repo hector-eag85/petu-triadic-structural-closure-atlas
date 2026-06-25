@@ -1,5 +1,3 @@
-FILE: DOI_RECORDS_MAP.md
-
 # PETU DOI Records Map v1
 
 ## Manuscript / preprint record
