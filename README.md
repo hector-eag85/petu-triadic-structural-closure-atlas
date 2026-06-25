@@ -20,6 +20,17 @@
 
 ---
 
+## Mathematical theory and strong predictions
+
+This repository now includes a formal mathematical companion to the empirical PETU atlas and a separated preregistration-oriented prediction document.
+
+* `theory/mathematical_theory/`: formal mathematical theory of triadic structural closure.
+* `theory/strong_predictions/`: strong predictions, null models, thresholds, falsification criteria and preregistration templates.
+
+These documents are theoretical and preregistration-oriented companions. They do not replace empirical validation and do not claim that PETU is already a completed universal law or a theory of everything.
+
+
+
 ## Overview
 
 PETU proposes and tests a candidate cross-domain empirical principle: in complex natural systems, coherent organization may be operationally represented through a triadic relation among support (H), structure (S), and linkage (L). The study evaluates whether these components jointly reconstruct system-level coherence, unity, and fragility across twelve natural domains.
