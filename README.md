@@ -8,6 +8,8 @@
 
 **Data/Code DOI:** https://doi.org/10.5281/zenodo.20820252
 
+**Theory DOI:** https://doi.org/10.5281/zenodo.20859713
+
 **Repository:** https://github.com/hector-eag85/petu-triadic-structural-closure-atlas
 
 **Scope:** twelve-domain empirical atlas across micro, meso, and macro natural systems.
@@ -19,6 +21,8 @@
 **Use this repository to:** read the manuscript, inspect figures/tables, access source data tables, review scripts, and reproduce or challenge the analysis and consult the formal mathematical companion and preregistered prediction framework.
 
 ---
+
+**Theory DOI:** https://doi.org/10.5281/zenodo.20859713
 
 ## Mathematical theory and strong predictions
 
@@ -43,7 +47,7 @@ This document converts the PETU framework into preregistered empirical test clas
 These documents are theoretical and preregistration-oriented companions to the empirical atlas. They do not replace empirical validation and do not claim that PETU is already a completed universal law or a theory of everything.
 
 
-
+```
 
 ## Overview
 
@@ -117,6 +121,20 @@ Please cite the preprint and the data/code archive separately when using this wo
 **Data/code archive:**
 
 Álvarez García, H. E. *PETU triadic structural closure atlas: data, code, figures, and reproducibility package*. Zenodo. https://doi.org/10.5281/zenodo.20820252
+
+## Additional citation: mathematical theory companion
+
+Álvarez García, H. E. *A Formal Mathematical Theory of Triadic Structural Closure: Support, Structure, Linkage, Coherence, Unity and Fragility in the PETU Framework*. Zenodo. https://doi.org/10.5281/zenodo.20859713
+
+```bibtex
+@misc{alvarezgarcia_petu_mathematical_theory_2026,
+  author = {Álvarez García, Héctor Eugenio},
+  title = {A Formal Mathematical Theory of Triadic Structural Closure: Support, Structure, Linkage, Coherence, Unity and Fragility in the PETU Framework},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.20859713},
+  url = {https://doi.org/10.5281/zenodo.20859713}
+}
 
 ## BibTeX
 
