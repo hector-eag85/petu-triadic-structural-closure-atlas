@@ -49,6 +49,7 @@ These documents are theoretical and preregistration-oriented companions to the e
 
 ```
 
+
 ## Overview
 
 PETU proposes and tests a candidate cross-domain empirical principle: in complex natural systems, coherent organization may be operationally represented through a triadic relation among support (H), structure (S), and linkage (L). The study evaluates whether these components jointly reconstruct system-level coherence, unity, and fragility across twelve natural domains.
@@ -121,6 +122,7 @@ Please cite the preprint and the data/code archive separately when using this wo
 **Data/code archive:**
 
 Álvarez García, H. E. *PETU triadic structural closure atlas: data, code, figures, and reproducibility package*. Zenodo. https://doi.org/10.5281/zenodo.20820252
+
 
 ## Additional citation: mathematical theory companion
 
