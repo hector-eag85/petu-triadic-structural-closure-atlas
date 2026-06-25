@@ -45,3 +45,4 @@ When citing the empirical atlas, cite:
 When citing scripts, tables, figures, logs, packaged outputs, and reproducibility materials, cite:
 
 Álvarez García, H. E. (2026). *PETU triadic structural closure atlas: data, code, figures, and reproducibility package* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20820252
+
