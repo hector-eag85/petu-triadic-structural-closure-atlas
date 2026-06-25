@@ -116,5 +116,7 @@ Please cite the preprint and the data/code archive separately when using this wo
 ## Contact
 
 Héctor Eugenio Álvarez García
+
 Independent researcher, Spain
+
 [hectoralvarezgarcia85@gmail.com](mailto:hectoralvarezgarcia85@gmail.com)
