@@ -1,0 +1,12 @@
+{
+  "package": "PETU_Theory_and_Strong_Predictions_Public_Package_v1",
+  "generated": "2026-06-25",
+  "status": "PASS_PUBLIC_THEORY_PACKAGE",
+  "compile_failures": 0,
+  "render_failures": 0,
+  "claim_boundary_scan_failures": 0,
+  "pdfs_rendered": 2,
+  "preprint_doi": "https://doi.org/10.5281/zenodo.20821557",
+  "data_code_doi": "https://doi.org/10.5281/zenodo.20820252",
+  "repository": "https://github.com/hector-eag85/petu-triadic-structural-closure-atlas"
+}
