@@ -40,15 +40,28 @@ Independent tier-1 validation is provided for immune dynamics, metabolism, hydro
 
 This repository includes:
 
-* main manuscript;
-* Supplementary Information;
-* Supplementary Tables;
-* main and extended figures;
-* source tables for figures;
-* analysis scripts;
-* data/code availability documentation;
-* reproducibility and audit materials;
-* final log-audit summary.
+* `manuscript/`
+* `supplementary_information/`
+* `supplementary_tables/`
+* `main_figures/`
+* `extended_data_figures/`
+* `data/source_tables/`
+* `data/processed/`
+* `scripts/`
+* `outputs/logs/`
+* `audit/`
+* `docs/`
+* `archive/`
+
+## Reproducibility chain
+
+The package is organized around the following traceability chain:
+
+```text
+claim → figure/table → source CSV → output/log → script → dataset/source
+```
+
+This structure is intended to make the analysis inspectable, reproducible, and open to challenge.
 
 ## Reproducibility status
 
@@ -57,6 +70,14 @@ Final audit status:
 **PASS_FINAL_LOG_AUDIT_WITH_SCOPE_NOTE**
 
 The source-table and packaged-log audit passed, including 272 numerical checks, 0 numerical failures, and 0 critical placeholder failures. This audit does not replace full third-party raw-data re-execution. The repository is structured to support independent re-execution through public scripts, run-order documentation, and data-source documentation.
+
+## Claim status
+
+Correct claim status:
+
+> candidate cross-domain empirical principle
+
+This repository does not claim that PETU is a completed universal law, a theory of everything, a metaphysical proof, or a theological proof.
 
 ## How to cite
 
@@ -97,52 +118,3 @@ Please cite the preprint and the data/code archive separately when using this wo
 Héctor Eugenio Álvarez García
 Independent researcher, Spain
 [hectoralvarezgarcia85@gmail.com](mailto:hectoralvarezgarcia85@gmail.com)
-
-
-
-
-# PETU Triadic Structural Closure Atlas
-
-Repository package for the manuscript:
-
-**Triadic structural closure across twelve natural domains**  
-*A cross-scale empirical atlas of support–structure–linkage organization in natural systems*
-
-Author: Héctor Eugenio Álvarez García  
-Version: v1.0.0  
-Date generated: 2026-06-22
-
-## Empirical status
-
-This package supports a twelve-domain empirical and computational atlas testing whether support **H**, structure **S** and linkage **L** jointly reconstruct coherence **Phi**, functional unity and fragility.
-
-Correct claim status:
-
-> candidate cross-domain empirical principle
-
-This repository does not claim that PETU is a completed universal law, a theory of everything, a metaphysical proof or a theological proof.
-
-## Contents
-
-- manuscript/
-- supplementary_information/
-- supplementary_tables/
-- main_figures/
-- extended_data_figures/
-- data/source_tables/
-- data/processed/
-- scripts/
-- outputs/logs/
-- audit/
-- docs/
-- archive/
-
-## Reproducibility chain
-
-claim → figure/table → source CSV → output/log → script → dataset/source
-
-## Current status
-
-Status: PASS_FINAL_LOG_AUDIT_WITH_SCOPE_NOTE.
-
-Scope note: source-table and packaged-log audit passed. Full raw-data re-execution was not performed inside the audit; the repository provides scripts, RUN_ORDER and public data-source documentation for reproducibility.
