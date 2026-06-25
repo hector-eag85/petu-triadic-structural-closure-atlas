@@ -50,7 +50,7 @@ These documents are theoretical and preregistration-oriented companions to the e
 ```
 
 
-## Overview
+##Overview
 
 PETU proposes and tests a candidate cross-domain empirical principle: in complex natural systems, coherent organization may be operationally represented through a triadic relation among support (H), structure (S), and linkage (L). The study evaluates whether these components jointly reconstruct system-level coherence, unity, and fragility across twelve natural domains.
 
