@@ -16,18 +16,32 @@
 
 **Audit status:** PASS FINAL LOG AUDIT WITH SCOPE NOTE.
 
-**Use this repository to:** read the manuscript, inspect figures/tables, access source data tables, review scripts, and reproduce or challenge the analysis.
+**Use this repository to:** read the manuscript, inspect figures/tables, access source data tables, review scripts, and reproduce or challenge the analysis and consult the formal mathematical companion and preregistered prediction framework.
 
 ---
 
 ## Mathematical theory and strong predictions
 
-This repository now includes a formal mathematical companion to the empirical PETU atlas and a separated preregistration-oriented prediction document.
+This repository also includes a formal mathematical companion to the empirical PETU atlas and a separated preregistration-oriented prediction document.
 
-* `theory/mathematical_theory/`: formal mathematical theory of triadic structural closure.
-* `theory/strong_predictions/`: strong predictions, null models, thresholds, falsification criteria and preregistration templates.
+**Mathematical theory companion:**
 
-These documents are theoretical and preregistration-oriented companions. They do not replace empirical validation and do not claim that PETU is already a completed universal law or a theory of everything.
+* `PETU_Mathematical_Theory_Formal_Companion_v1.pdf`
+* `PETU_Mathematical_Theory_Formal_Companion_v1.tex`
+* `PETU_Mathematical_Theory_Formal_Companion_v1.md`
+
+This document formalizes support (H), structure (S), linkage (L), closure/coherence (Φ), unity, balance, dominance, fragility, co-inherence, perturbative response, multi-scale closure, categorical structural equivalence, tensorial extension, variational stability and law-candidate criteria.
+
+**Strong predictions and preregistered tests:**
+
+* `PETU_Strong_Predictions_Preregistered_Tests_v1.pdf`
+* `PETU_Strong_Predictions_Preregistered_Tests_v1.tex`
+* `PETU_Strong_Predictions_Preregistered_Tests_v1.md`
+
+This document converts the PETU framework into preregistered empirical test classes, including baseline hierarchies, null models, thresholds, domain templates, falsification criteria and reporting requirements.
+
+These documents are theoretical and preregistration-oriented companions to the empirical atlas. They do not replace empirical validation and do not claim that PETU is already a completed universal law or a theory of everything.
+
 
 
 
@@ -63,6 +77,8 @@ This repository includes:
 * `audit/`
 * `docs/`
 * `archive/`
+* PETU_Mathematical_Theory_Formal_Companion_v1.pdf/.tex/.md
+* PETU_Strong_Predictions_Preregistered_Tests_v1.pdf/.tex/.md
 
 ## Reproducibility chain
 
