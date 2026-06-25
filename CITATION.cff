@@ -1,70 +1,70 @@
-cff-version: 1.2.0
+cff-version: "1.2.0"
 message: "Please cite the PETU preprint, the data/code archive, and the formal mathematical companion separately when using this work."
 title: "PETU triadic structural closure atlas: data, code, figures, and reproducibility package"
-version: "v1.0.0"
+version: "1.0.0"
 type: software
 
 authors:
-
-* family-names: "Álvarez García"
-  given-names: "Héctor Eugenio"
+  - family-names: "Álvarez García"
+    given-names: "Héctor Eugenio"
 
 doi: "10.5281/zenodo.20820252"
 url: "https://github.com/hector-eag85/petu-triadic-structural-closure-atlas"
 repository-code: "https://github.com/hector-eag85/petu-triadic-structural-closure-atlas"
 
 abstract: >-
-This repository contains the PETU triadic structural closure atlas data/code,
-figures, source tables, supplementary materials, audit materials, and
-reproducibility package associated with the empirical preprint Triadic
-structural closure across twelve natural domains. The release also links to a
-formal mathematical companion and preregistration-oriented strong-prediction
-framework.
+  This repository contains the PETU triadic structural closure atlas data/code,
+  figures, source tables, supplementary materials, audit materials, and
+  reproducibility package associated with the empirical preprint Triadic
+  structural closure across twelve natural domains. The release also links to a
+  formal mathematical companion and preregistration-oriented strong-prediction
+  framework.
 
 keywords:
-
-* PETU
-* triadic structural closure
-* support
-* structure
-* linkage
-* coherence
-* reproducibility
-* complex systems
-* cross-domain empirical atlas
+  - "PETU"
+  - "triadic structural closure"
+  - "support"
+  - "structure"
+  - "linkage"
+  - "coherence"
+  - "reproducibility"
+  - "complex systems"
+  - "cross-domain empirical atlas"
 
 preferred-citation:
-type: software
-authors:
-- family-names: "Álvarez García"
-given-names: "Héctor Eugenio"
-title: "PETU triadic structural closure atlas: data, code, figures, and reproducibility package"
-version: "v1.0.0"
-year: 2026
-publisher: "Zenodo"
-doi: "10.5281/zenodo.20820252"
-url: "https://doi.org/10.5281/zenodo.20820252"
+  type: software
+  authors:
+    - family-names: "Álvarez García"
+      given-names: "Héctor Eugenio"
+  title: "PETU triadic structural closure atlas: data, code, figures, and reproducibility package"
+  version: "1.0.0"
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.20820252"
+  url: "https://doi.org/10.5281/zenodo.20820252"
 
 references:
-
-* type: article
-  authors:
-
-  * family-names: "Álvarez García"
-    given-names: "Héctor Eugenio"
+  - type: article
+    authors:
+      - family-names: "Álvarez García"
+        given-names: "Héctor Eugenio"
     title: "Triadic structural closure across twelve natural domains"
     year: 2026
-    publisher: "Zenodo"
+    status: preprint
+    publisher:
+      name: "Zenodo"
     doi: "10.5281/zenodo.20821557"
     url: "https://doi.org/10.5281/zenodo.20821557"
 
-* type: article
-  authors:
-
-  * family-names: "Álvarez García"
-    given-names: "Héctor Eugenio"
+  - type: article
+    authors:
+      - family-names: "Álvarez García"
+        given-names: "Héctor Eugenio"
     title: "A Formal Mathematical Theory of Triadic Structural Closure: Support, Structure, Linkage, Coherence, Unity and Fragility in the PETU Framework"
     year: 2026
-    publisher: "Zenodo"
+    status: preprint
+    publisher:
+      name: "Zenodo"
     doi: "10.5281/zenodo.20859713"
     url: "https://doi.org/10.5281/zenodo.20859713"
