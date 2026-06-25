@@ -78,7 +78,7 @@ This repository includes:
 * `docs/`
 * `archive/`
 * PETU_Mathematical_Theory_Formal_Companion_v1.pdf/.tex/.md
-* PETU_Strong_Predictions_Preregistered_Tests_v1.pdf/.tex/.md
+* PETU_Strong_Predictions_Preregistered_Tests_v1.pdf/.tex/.md 
 
 ## Reproducibility chain
 
